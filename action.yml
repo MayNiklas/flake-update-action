@@ -1,0 +1,11 @@
+name: "Update flake.lock"
+description: "Updates a flake.lock file for updating used packages."
+author: "MayNiklas"
+branding:
+  color: "blue"
+  icon: "sun"
+runs:
+  using: "composite"
+  steps:
+    - run: ${{ github.action_path }}/update-flake.sh
+      shell: bash

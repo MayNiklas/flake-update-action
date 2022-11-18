@@ -1,1 +1,1 @@
-# nix_flake_update-action
+# nix flake update GitHub action
