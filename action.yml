@@ -1,4 +1,4 @@
-name: "Update flake.lock"
+name: "update nix flake"
 description: "Updates a flake.lock file for updating used packages."
 author: "MayNiklas"
 branding:
