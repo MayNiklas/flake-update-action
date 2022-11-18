@@ -1,5 +1,5 @@
 name: "update nix flake"
-description: "Updates a flake.lock file for updating used packages."
+description: "updates a flake.lock file for updating used packages."
 author: "MayNiklas"
 branding:
   color: "blue"
